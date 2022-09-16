@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@crypto-org-chain/chain-jslib": "^1.0.7",
+    "bignumber.js": "^9.0.2",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "moment-timezone": "^0.5.34",
+    "web3": "^1.7.5"
+  },
+  "name": "cronos-paybito",
+  "version": "1.0.0",
+  "main": "CronosAPI.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karthik Swarnkar",
+  "license": "ISC",
+  "description": ""
+}
